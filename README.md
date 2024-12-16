@@ -1,4 +1,4 @@
-# Tactical Marketing Dashboard
+# Operational Marketing Dashboard
 
 ## Business context
 A marketing manager at Florae, a floral business, is seeking to enhance her team's productivity by optimizing marketing campaigns more efficiently. I am responsible for creating an interactive dashboard that reports key metrics in real time and identifies both effective and ineffective campaigns.
