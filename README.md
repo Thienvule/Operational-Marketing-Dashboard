@@ -46,9 +46,15 @@ The dashboard can be customized and added more columns as needed.
 - Calculated field
 - Data visualization
 - Data validation
-- Conditional formatting 
+- Conditional formatting
 
-## Building dashboard - let's get technical
+## Final Thoughts
+The predictive outcomes of the marketing operational dashboard indicate a significant potential for improved campaign efficiency, cost savings, and increased productivity. By focusing on data-driven decision-making, Florae marketing team is positioned to maximize its marketing investments, optimize resource allocation, and ultimately drive better business results. These enhancements will not only improve the efficacy of the campaigns but also yield a substantial positive impact on the overall marketing strategy and financial performance.
+
+### Next Steps
+Moving forward, we will continue to monitor these predictions closely and adjust our strategies as necessary to ensure ongoing optimization and success. Regular training for the marketing team on utilizing the dashboard effectively will also be a priority to fully leverage the capabilities of this valuable tool.
+
+## Building dashboard - Technical
 ### Interactive Data
 This tab utilizes Aggregate Data to adjust and compile relevant metrics and columns, while crucially preserving the integrity of the raw dataset. The Interactive Data tab acts as the source for the filtered results displayed on the main dashboard. First, in the Aggregate Data tab, I created a 'Location' column extracted from the 'Campaign Name' column, which includes the branch's name following the naming convention. 
 
@@ -79,11 +85,6 @@ Similarly, relevant metrics can also be obtained from this Pivot Table sheet. Fi
 
 ![image](https://github.com/user-attachments/assets/16925a85-5cf4-46a5-98d9-e25fd60b60d7)
 
-## Final Thoughts
-The predictive outcomes of the marketing operational dashboard indicate a significant potential for improved campaign efficiency, cost savings, and increased productivity. By focusing on data-driven decision-making, Florae marketing team is positioned to maximize its marketing investments, optimize resource allocation, and ultimately drive better business results. These enhancements will not only improve the efficacy of the campaigns but also yield a substantial positive impact on the overall marketing strategy and financial performance.
-
-### Next Steps
-Moving forward, we will continue to monitor these predictions closely and adjust our strategies as necessary to ensure ongoing optimization and success. Regular training for the marketing team on utilizing the dashboard effectively will also be a priority to fully leverage the capabilities of this valuable tool.
 
 
 
